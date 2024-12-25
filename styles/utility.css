@@ -1,5 +1,5 @@
 .py-base {
-    padding: var(--py-base);
+    padding-block: var(--py-base);
 }
 
 .py-lg {
@@ -16,7 +16,7 @@
 
 
 .container {
-    --max-widht: 375px;
+   --max-width: 375px;
     width: min(var(--max-width), 100% - var(--px-lg) * 2);
     margin-inline: auto;
 }
