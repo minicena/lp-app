@@ -97,10 +97,9 @@ ul[role="list"] {
         --fs-xl: 3rem;
         --fs-2xl: 4rem;
 
-        --py-base: 2rem;
+        --py-base: 1.5rem;
         --py-lg: 2.5rem;
         --py-xl: 5rem;
-
         --px-lg: 2rem;
     }
 }
