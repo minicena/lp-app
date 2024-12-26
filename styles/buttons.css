@@ -49,7 +49,7 @@
         content: "";
         position: absolute;
         border-radius: inherit;
-        inset: .095rem;
+        inset: 1px;
         background-color: var(--bg-color);
 
     }
